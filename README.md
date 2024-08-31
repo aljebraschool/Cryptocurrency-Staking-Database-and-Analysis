@@ -48,24 +48,18 @@ The primary purpose of this notebook is to analyze the performance and behavior 
      git clone https://github.com/yourusername/cryptocurrency-staking-analysis.git
      ```
 
-2. **Install Dependencies:**
-   - Ensure that you have Python installed on your system.
-   - Install the required Python packages using:
-     ```bash
-     pip install -r requirements.txt
-     ```
 
-3. **Run the Notebook:**
+2. **Run the Notebook:**
    - Open the Jupyter notebook in your local environment:
      ```bash
      jupyter notebook Cryptocurrency_Staking_Analysis.ipynb
      ```
    - Follow the cells sequentially to reproduce the analysis.
 
-4. **Explore the Data:**
+3. **Explore the Data:**
    - You can modify the analysis, add new plots, or explore different aspects of the data by editing the notebook cells.
 
-5. **Results Interpretation:**
+4. **Results Interpretation:**
    - The notebook includes detailed explanations and visualizations that guide you through the analysis process. Use the provided insights to understand the dynamics of Tezos staking.
 
 ## Requirements
@@ -86,6 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or further information, please contact [Ridwan Ibidunni] at [Ridwan.IBIDUNNI2um6p.ma].
 
----
 
-This README file now includes a direct link to your Google Drive folder containing the datasets.
