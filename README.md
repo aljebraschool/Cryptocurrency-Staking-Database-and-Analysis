@@ -46,7 +46,7 @@ The primary purpose of this notebook is to analyze the performance and behavior 
 1. **Clone the Repository:**
    - Access the notebook via this path:
      ```bash
-     [Tezos Dataset Descriptive statistics notebook](https://colab.research.google.com/drive/1jAVVEPxWXV2URoZVe8GHzEBVsujVr5pA?usp=sharing)
+     https://colab.research.google.com/drive/1jAVVEPxWXV2URoZVe8GHzEBVsujVr5pA?usp=sharing
      ```
 
 
