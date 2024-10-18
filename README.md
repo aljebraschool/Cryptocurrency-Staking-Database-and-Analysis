@@ -35,6 +35,7 @@ The primary purpose of this notebook is to analyze the performance and behavior 
    - Key insights derived from the analysis.
    - Comparative analysis of baker performance.
    - Discussion on the implications of the findings for stakeholders in the cryptocurrency ecosystem.
+   - **[Full master thesis can be found here](https://docs.google.com/document/d/10_u8-unVk_W_6lTZ30My_n8HPvz9fRHBcpaG8s4lz9M/edit?usp=sharing)**
 
 ### 5. **Conclusion**
    - Summary of the research and analysis.
