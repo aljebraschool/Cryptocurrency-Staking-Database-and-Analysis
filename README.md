@@ -79,6 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or further information, please contact [Ridwan Ibidunni] at [Ridwan.IBIDUNNI2um6p.ma].
+For any inquiries or further information, please contact [Ridwan Ibidunni] at [Ridwan.IBIDUNNI](Ridwan.IBIDUNN@um6p.ma).
 
 
