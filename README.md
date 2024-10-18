@@ -44,16 +44,16 @@ The primary purpose of this notebook is to analyze the performance and behavior 
 ## How to Use the Notebook
 
 1. **Clone the Repository:**
-   - Clone this repository to your local machine using the following command:
+   - Access the notebook via this path:
      ```bash
-     git clone https://github.com/yourusername/cryptocurrency-staking-analysis.git
+     [Tezos Dataset Descriptive statistics notebook](https://colab.research.google.com/drive/1jAVVEPxWXV2URoZVe8GHzEBVsujVr5pA?usp=sharing)
      ```
 
 
 2. **Run the Notebook:**
    - Open the Jupyter notebook in your local environment:
      ```bash
-     jupyter notebook Cryptocurrency_Staking_Analysis.ipynb
+     jupyter notebook Tezos_Dataset_Descriptive_statistics.ipynb
      ```
    - Follow the cells sequentially to reproduce the analysis.
 
